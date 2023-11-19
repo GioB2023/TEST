@@ -28,5 +28,7 @@ If you would like to contribute to this project, please follow these guidelines:
 4. Push to the branch: `git push origin feature-name`
 5. Submit a pull request.
 
+Μπορείτε να βρείτε το αποθετήριο μου στο GitHub [εδώ](σύνδεσμος-προς-το-αποθετήριο).
+
 ## License
 This project is licensed under the [MIT License](LICENSE).
